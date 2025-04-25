@@ -1,0 +1,8 @@
+Shape,Side1,Side2,Side3,Side4,Side5,Side6
+Triangle,2,4,6,,,  
+Triangle,3,1,6,,,  
+Triangle,2,5,6,,,  
+Triangle,2,10,6,,,  
+Rectangle,12,5,12,5,,  
+Square,4,4,4,4,,  
+Cube,3,3,3,3,3,3,3  
